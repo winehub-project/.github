@@ -3,7 +3,7 @@
 Flatpak repo hosting wine as runtime, and apps.  
 Idea : prefix is made at build time, user just download and install
 ```
-  Wine (flatpak runtime)
+  Wine (flatpak runtime or baseapp?)
   App and prefix (flatpak app)
 ```
 How to handle different wine versions
